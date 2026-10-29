@@ -1,95 +1,89 @@
-📱 PhonePe Power BI Dashboard
+📱 PhonePe Payment Insights Dashboard
 
-📌 Project Overview
+📊 Project Overview
 
-This project presents an interactive PhonePe Dashboard built using Microsoft Power BI to analyze digital payment transactions, transaction values, user activity, and payment success rates.
+The PhonePe Payment Insights Dashboard is an interactive Power BI dashboard developed to analyze digital payment transactions and visualize payment trends, transaction values, user activity, and payment success rates.
 
-The dashboard provides clear insights through interactive KPI cards, charts, filters, and visualizations to understand transaction patterns and customer behavior.
+The dashboard provides insights into transaction performance, service-wise transaction values, age-group contributions, and weekday versus weekend usage through interactive visualizations and filters.
 
-📊 Dashboard Features
+🛠️ Tools & Technologies
 
-Total Transactions: Displays the total number of transactions.
+Power BI
 
-Total Value: Shows the total transaction amount.
+Power Query
 
-Unique Users: Displays the number of unique users.
+DAX
 
-Successful Rate: Shows the percentage of successful transactions.
+Excel / CSV
 
-Transactions Over Time: Analyzes monthly transaction trends.
+Data Cleaning & Transformation
 
-Age Segment Contribution: Compares Gen X, Millennials, Gen Z, and Boomers.
+Data Visualization
 
-Service Transaction Value Analysis: Compares transaction values across different services.
+📌 Key Features
 
-Top 5 Services: Highlights the top-performing services.
+💳 Total transaction analysis
 
-Weekday vs. Weekend Usage: Compares transaction activity during weekdays and weekends.
+💰 Total transaction value
 
-Insights Panel: Highlights key findings from the dashboard.
+👥 Unique user analysis
 
-Interactive Filters: Allows users to filter data by month and payment status.
+✅ Successful payment rate monitoring
 
-🛠️ Tools and Technologies
+📈 Monthly transaction trends
 
-Microsoft Power BI
+🧑 Age-segment contribution analysis
 
-Power Query for data preparation
+📊 Service-wise transaction value analysis
 
-DAX for calculations and measures
+🏆 Top 5 services by transaction value
 
-Excel for dataset management
+📅 Weekday versus weekend usage analysis
 
-Data Visualization and Business Intelligence
+🔍 Interactive filters for payment status
 
-🎯 Project Objectives
+📉 Visual comparison of payment performance
 
-Analyze digital payment transaction patterns.
+📷 Dashboard Preview
 
-Monitor transaction value and successful payment rates.
+Main Dashboard
 
-Identify top-performing services.
 
-Understand user demographics and usage behavior.
 
-Compare weekday and weekend transaction activity.
+📈 Key Insights
 
-Present meaningful business insights through interactive visualizations.
+The dashboard enables analysis of:
 
-💡 Key Insights
+Overall transaction volume and total payment value
 
-The dashboard displays approximately 101K total transactions.
+Successful, failed, pending, and other payment statuses
 
-The total transaction value displayed is 528.97M.
+Monthly transaction trends and fluctuations
 
-The dashboard reports 108K unique users.
+Transaction contributions across different age groups
 
-The successful payment rate displayed is 96.15%.
+Top-performing services based on transaction value
 
-Weekday and weekend usage is compared to understand transaction behavior.
+Differences between weekday and weekend payment activity
 
-Note: These values are taken from the dashboard screenshot and depend on the selected filters and underlying dataset.
+Overall digital payment performance and user engagement
 
-📁 Project Files
+📂 Project Files
 
-PhonePe.pbix — Power BI dashboard file.
+PhonePe Payment Insights Dashboard.pbix — Power BI dashboard project file
 
-Screenshot.png — Phonepe%20dashboard%20snapshot.png
+phonepe dashboard.png — Main dashboard preview
 
-Phonepe-Final-Dataset.xlsx — Source dataset, if permitted to share.
+README.md — Project documentation
 
-🚀 How to Use
+🎯 Objective
 
-Download or clone this repository.
+The objective of this project is to demonstrate practical skills in data analysis, data visualization, Power BI, Power Query, and DAX by transforming digital payment transaction data into an interactive dashboard that supports data-driven decision-making.
 
-Download and install Microsoft Power BI Desktop.
+👨‍💻 Author
 
-Open the PhonePe.pbix file.
+Sanket Kenjale
 
-Refresh the data source if required.
+B.Sc. IT Graduate | Aspiring Data Analyst
 
-Explore the dashboard using the available filters and visualizations.
-
-👩‍💻 Author
-
-Created as a Data Analytics and Business Intelligence project using Microsoft Power BI.
+Skills: Power BI | SQL | Tableau | Python | Advanced Excel | Data Analysis
