@@ -44,9 +44,9 @@ The dashboard provides insights into transaction performance, service-wise trans
 
 📉 Visual comparison of payment performance
 
-## 📷 Dashboard Preview
+## 📸 Dashboard Preview
 
-[Main Dashboard](kolgearchita-ui/PhonePe-Dashboard-PowerBi/blob/main/Phonepe%20dashboard%20snapshot.png)
+![PhonePe Dashboard Preview](https://raw.githubusercontent.com/kolgearchita-ui/PhonePe-Dashboard-PowerBi/main/Phonepe%20dashboard%20snapshot.png)
 
 
 
