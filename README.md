@@ -74,7 +74,7 @@ Note: These values are taken from the dashboard screenshot and depend on the sel
 
 PhonePe.pbix — Power BI dashboard file.
 
-Screenshot.png — 
+Screenshot.png — Phonepe%20dashboard%20snapshot.png
 
 Phonepe-Final-Dataset.xlsx — Source dataset, if permitted to share.
 
