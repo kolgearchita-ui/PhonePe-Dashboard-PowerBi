@@ -47,7 +47,7 @@ Data Visualization
 📷 Dashboard Preview
 
 Main Dashboard
-PhonePe-Dashboard/blob/main/Phonepe%20dashboard%20snapshot.png
+🔗 Click here to view the full dashboard screenshot
 
 
 
