@@ -1,26 +1,26 @@
-📱 PhonePe Payment Insights Dashboard
+## 📱 PhonePe Payment Insights Dashboard
 
-📊 Project Overview
+## 📊 Project Overview
 
 The PhonePe Payment Insights Dashboard is an interactive Power BI dashboard developed to analyze digital payment transactions and visualize payment trends, transaction values, user activity, and payment success rates.
 
 The dashboard provides insights into transaction performance, service-wise transaction values, age-group contributions, and weekday versus weekend usage through interactive visualizations and filters.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
-Power BI
+- Power BI
 
-Power Query
+- Power Query
 
-DAX
+- DAX
 
-Excel / CSV
+- Excel / CSV
 
-Data Cleaning & Transformation
+- Data Cleaning & Transformation
 
-Data Visualization
+- Data Visualization
 
-📌 Key Features
+## 📌 Key Features
 
 💳 Total transaction analysis
 
@@ -44,32 +44,32 @@ Data Visualization
 
 📉 Visual comparison of payment performance
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
 
 Main Dashboard
-🔗 Click here to view the full dashboard screenshot
 
 
 
-📈 Key Insights
 
-The dashboard enables analysis of:
+## 📈 Key Insights
 
-Overall transaction volume and total payment value
+- The dashboard enables analysis of:
 
-Successful, failed, pending, and other payment statuses
+- Overall transaction volume and total payment value
 
-Monthly transaction trends and fluctuations
+- Successful, failed, pending, and other payment statuses
 
-Transaction contributions across different age groups
+- Monthly transaction trends and fluctuations
 
-Top-performing services based on transaction value
+- Transaction contributions across different age groups
 
-Differences between weekday and weekend payment activity
+- Top-performing services based on transaction value
 
-Overall digital payment performance and user engagement
+- Differences between weekday and weekend payment activity
 
-📂 Project Files
+- Overall digital payment performance and user engagement
+
+## 📂 Project Files
 
 PhonePe Payment Insights Dashboard.pbix — Power BI dashboard project file
 
@@ -77,13 +77,13 @@ phonepe dashboard.png — Main dashboard preview
 
 README.md — Project documentation
 
-🎯 Objective
+## 🎯 Objective
 
 The objective of this project is to demonstrate practical skills in data analysis, data visualization, Power BI, Power Query, and DAX by transforming digital payment transaction data into an interactive dashboard that supports data-driven decision-making.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Sanket Kenjale
+Archita Kolge
 
 B.Sc. IT Graduate | Aspiring Data Analyst
 
