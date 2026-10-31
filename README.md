@@ -85,6 +85,6 @@ The objective of this project is to demonstrate practical skills in data analysi
 
 Archita Kolge
 
-B.Sc. IT Graduate | Aspiring Data Analyst
+B.Sc. IT Graduate | Data Analyst
 
 Skills: Power BI | SQL | Tableau | Python | Advanced Excel | Data Analysis
