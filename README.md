@@ -71,9 +71,9 @@ The dashboard provides insights into transaction performance, service-wise trans
 
 ## 📂 Project Files
 
-PhonePe Payment Insights Dashboard.pbix — Power BI dashboard project file
+* `PhonePe Payment Insights Dashboard.pbix` — Power BI dashboard project file
 
-phonepe dashboard.png — Main dashboard preview
+* `phonepe dashboard.png` — Main dashboard preview
 
 README.md — Project documentation
 
@@ -83,7 +83,7 @@ The objective of this project is to demonstrate practical skills in data analysi
 
 ## 👨‍💻 Author
 
-Archita Kolge
+**Archita Kolge**
 
 B.Sc. IT Graduate | Data Analyst
 
